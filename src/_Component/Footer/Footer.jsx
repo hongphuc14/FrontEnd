@@ -26,12 +26,12 @@ export default function Footer() {
           <div className='footer-top-item'>
             <h1>CỘNG ĐỒNG</h1>
             <ul>
-              <li><a href="#" title="Events">Sự đa dạng và Cảm giác thân thuộc</a> </li>
-              <li><a href="#" title="Blog">Tiện nghi phù hợp cho người khuyết tật</a> </li>
-              <li><a href="#" title="Forum">Đối tác liên kết Airbnb</a> </li>
-              <li><a href="#" title="Community Standards">Chỗ ở cho tuyến đầu</a> </li>
-              <li><a href="#" title="Podcast">Lượt giới thiệu của khách</a> </li>
-              <li><a href="#" title="Affiliates">Airbnb.org</a> </li>
+              <li><a href="#" title="Sự đa dạng và Cảm giác thân thuộc">Sự đa dạng và Cảm giác thân thuộc</a> </li>
+              <li><a href="#" title="Tiện nghi phù hợp cho người khuyết tật">Tiện nghi phù hợp cho người khuyết tật</a> </li>
+              <li><a href="#" title="Đối tác liên kết Airbnb">Đối tác liên kết Airbnb</a> </li>
+              <li><a href="#" title="Chỗ ở cho tuyến đầu">Chỗ ở cho tuyến đầu</a> </li>
+              <li><a href="#" title="Lượt giới thiệu của khách">Lượt giới thiệu của khách</a> </li>
+              <li><a href="#" title="Airbnb.org">Airbnb.org</a> </li>
             </ul>
           </div>          
           <div className='footer-top-item'>
